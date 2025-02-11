@@ -1,0 +1,845 @@
+{
+  "snippetMatches": {
+    "RECIPROCAL": [
+      {
+        "projectName": "GUICED EE Apache Log4j2",
+        "releaseVersion": "1.1.0.0-jre15",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            145,
+            145,
+            145,
+            145,
+            145,
+            145,
+            145
+          ],
+          "matchedEndLines": [
+            173,
+            173,
+            173,
+            173,
+            173,
+            173,
+            164
+          ]
+        }
+      },
+      {
+        "projectName": "GUICED EE Apache Log4j2",
+        "releaseVersion": "1.2.2.1",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            52,
+            117,
+            183,
+            249,
+            315,
+            381,
+            447
+          ],
+          "matchedStartLines": [
+            144,
+            144,
+            144,
+            144,
+            144,
+            144,
+            144
+          ],
+          "matchedEndLines": [
+            178,
+            178,
+            178,
+            178,
+            178,
+            178,
+            178
+          ]
+        }
+      },
+      {
+        "projectName": "GUICED EE Apache Log4j2",
+        "releaseVersion": "1.0.2.15-jre13",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            142,
+            142,
+            142,
+            142,
+            142,
+            142,
+            142
+          ],
+          "matchedEndLines": [
+            169,
+            169,
+            169,
+            169,
+            169,
+            169,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "GUICED EE Apache Log4j2",
+        "releaseVersion": "1.1.1.2-jre15",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            146,
+            146,
+            146,
+            146,
+            146,
+            146,
+            146
+          ],
+          "matchedEndLines": [
+            177,
+            177,
+            177,
+            177,
+            177,
+            177,
+            165
+          ]
+        }
+      }
+    ],
+    "WEAK_RECIPROCAL": [
+      {
+        "projectName": "com.liferay.portal.search.elasticsearch7.impl",
+        "releaseVersion": "4.0.48",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v2.1 only",
+          "spdxId": "LGPL-2.1-only",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v2.1 only"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            52,
+            117,
+            183,
+            249,
+            315,
+            381,
+            447
+          ],
+          "matchedStartLines": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+          ],
+          "matchedEndLines": [
+            161,
+            161,
+            161,
+            161,
+            161,
+            161,
+            161
+          ]
+        }
+      }
+    ],
+    "PERMISSIVE": [
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.13.0-rc1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/log4j-core/src/main/java/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            142,
+            142,
+            142,
+            142,
+            142,
+            142,
+            142
+          ],
+          "matchedEndLines": [
+            169,
+            169,
+            169,
+            169,
+            169,
+            169,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.14.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            145,
+            145,
+            145,
+            145,
+            145,
+            145,
+            145
+          ],
+          "matchedEndLines": [
+            173,
+            173,
+            173,
+            173,
+            173,
+            173,
+            164
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.15.0-rc1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/logging-log4j2-da9694fd67d01561c4ed7288a755b1a7ceb360c0/log4j-core/src/main/java/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            52,
+            117,
+            183,
+            249,
+            315,
+            381,
+            447
+          ],
+          "matchedStartLines": [
+            144,
+            144,
+            144,
+            144,
+            144,
+            144,
+            144
+          ],
+          "matchedEndLines": [
+            178,
+            178,
+            178,
+            178,
+            178,
+            178,
+            178
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.12.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378
+          ],
+          "matchedStartLines": [
+            136,
+            136,
+            136,
+            136,
+            136,
+            136
+          ],
+          "matchedEndLines": [
+            159,
+            159,
+            159,
+            159,
+            159,
+            159
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.14.1",
+        "licenseDefinition": {
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            146,
+            146,
+            146,
+            146,
+            146,
+            146,
+            146
+          ],
+          "matchedEndLines": [
+            177,
+            177,
+            177,
+            177,
+            177,
+            177,
+            165
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.17.2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            52,
+            117,
+            183,
+            249,
+            315,
+            381,
+            447
+          ],
+          "matchedStartLines": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+          ],
+          "matchedEndLines": [
+            161,
+            161,
+            161,
+            161,
+            161,
+            161,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.21.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            52,
+            117,
+            183,
+            249,
+            315,
+            381,
+            447
+          ],
+          "matchedStartLines": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+          ],
+          "matchedEndLines": [
+            161,
+            161,
+            161,
+            161,
+            161,
+            161,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Log4j",
+        "releaseVersion": "2.22.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            52,
+            117,
+            183,
+            249,
+            315,
+            381,
+            447
+          ],
+          "matchedStartLines": [
+            133,
+            133,
+            133,
+            133,
+            133,
+            133,
+            133
+          ],
+          "matchedEndLines": [
+            167,
+            167,
+            167,
+            167,
+            167,
+            167,
+            167
+          ]
+        }
+      },
+      {
+        "projectName": "log4j-extend",
+        "releaseVersion": "3.3.8",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            142,
+            142,
+            142,
+            142,
+            142,
+            142,
+            142
+          ],
+          "matchedEndLines": [
+            169,
+            169,
+            169,
+            169,
+            169,
+            169,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "log-extend",
+        "releaseVersion": "3.3.5",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            142,
+            142,
+            142,
+            142,
+            142,
+            142,
+            142
+          ],
+          "matchedEndLines": [
+            169,
+            169,
+            169,
+            169,
+            169,
+            169,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "log-extend",
+        "releaseVersion": "3.3.6",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            142,
+            142,
+            142,
+            142,
+            142,
+            142,
+            142
+          ],
+          "matchedEndLines": [
+            169,
+            169,
+            169,
+            169,
+            169,
+            169,
+            161
+          ]
+        }
+      },
+      {
+        "projectName": "log4j-jdk11",
+        "releaseVersion": "2.13.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/logging/log4j/core/LoggerContext.java",
+        "regions": {
+          "sourceStartLines": [
+            20,
+            85,
+            151,
+            217,
+            283,
+            349,
+            415
+          ],
+          "sourceEndLines": [
+            49,
+            114,
+            180,
+            246,
+            312,
+            378,
+            435
+          ],
+          "matchedStartLines": [
+            142,
+            142,
+            142,
+            142,
+            142,
+            142,
+            142
+          ],
+          "matchedEndLines": [
+            169,
+            169,
+            169,
+            169,
+            169,
+            169,
+            161
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
