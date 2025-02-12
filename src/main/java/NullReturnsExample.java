@@ -16,5 +16,4 @@ public class NullReturnsExample {
         // no bug here
         returnB().toString();
     }
-
 }
