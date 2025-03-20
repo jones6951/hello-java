@@ -33,13 +33,11 @@ jobs:
           
           ### PULL REQUEST COMMENTS: Uncomment below to enable
           blackducksca_prcomment_enabled: true 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
           ### SARIF report generation and upload to GitHub Adavanced Security: Uncomment below to enable
           blackducksca_reports_sarif_create: true # Create Black Duck SCA SARIF report and upload it as artifact
           blackducksca_upload_sarif_report: true  # Upload Black Duck SCA SARIF report in GitHub Advanced Security tab
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          
+
           ### Mark build status if policy violating issues are found
           # mark_build_status: 'success'
           
