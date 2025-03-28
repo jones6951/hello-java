@@ -1,4 +1,4 @@
-name: CI-Coverity-Basic
+name: Coverity SAST
 on:
   push:
     branches: [ main, master, develop, stage, release ]
