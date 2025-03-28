@@ -16,7 +16,7 @@ jobs:
         run: echo $LICENSE > license.dat
         shell: bash
         env:
-          LICENSE: ${{ secrets.LICENSE }}
+          LICENSE: ${{ vars.COVERITY_URL }}
       - name: Again
         run: cat license.dat
       - name: Coverity Scan
