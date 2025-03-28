@@ -13,7 +13,11 @@ jobs:
       - name: Checkout Source
         uses: actions/checkout@v3
       - name: Get License
-        run: "echo ${{ secrets.LICENSE }} >license.dat"
+          run: |
+            echo $LICENSE &gt; license.dat
+          shell: bash
+          env:
+            LICENSE : ${{ secrets.LICENSE }}
       - name: Again
         run: "cat license.dat"
       - name: Coverity Scan
