@@ -16,9 +16,7 @@ jobs:
         run: echo $LICENSE > license.dat
         shell: bash
         env:
-          LICENSE: ${{ vars.COVERITY_URL }}
-      - name: Again
-        run: cat license.dat
+          LICENSE: ${{ secrets.LICENSEL }}
       - name: Coverity Scan
         id: coverity-scan
         uses: blackduck-inc/black-duck-security-scan@v2.1.0
@@ -28,7 +26,7 @@ jobs:
           coverity_user: ${{ secrets.COVERITY_USER }}
           coverity_passphrase: ${{ secrets.COVERITY_PASSPHRASE }}
           coverity_local: true
-          coverity_args: "-sf license.dat"
+          coverity_args: "--security-file license.dat"
           
           ### Coverity Connect users - Uncomment below
           # coverity_local: true
