@@ -16,7 +16,7 @@ jobs:
         run: echo $LICENSE > license.dat
         shell: bash
         env:
-          LICENSE: ${{ secrets.LICENSEL }}
+          LICENSE: ${{ secrets.LICENSE }}
       - name: Coverity Scan
         id: coverity-scan
         uses: blackduck-inc/black-duck-security-scan@v2.1.0
