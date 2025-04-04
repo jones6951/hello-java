@@ -25,8 +25,7 @@ jobs:
           coverity_url: ${{ vars.COVERITY_URL }}
           coverity_user: ${{ secrets.COVERITY_USER }}
           coverity_passphrase: ${{ secrets.COVERITY_PASSPHRASE }}
-          coverity_local: true
-          coverity_args: "--security-file license.dat"
+          coverity_local: false
           
           ### Coverity Connect users - Uncomment below
           # coverity_local: true
