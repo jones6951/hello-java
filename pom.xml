@@ -11,8 +11,8 @@
   <url>https://github.com/chuckaude/hello-java</url>
   <inceptionYear>2019</inceptionYear>
   <organization>
-    <name>Synopsys Software Integrity Group</name>
-	<url>https://www.synopsys.com/software-integrity.html</url>
+    <name>Black Duck Software</name>
+	<url>https://www.blackduck.com</url>
   </organization>
 
   <dependencies>
