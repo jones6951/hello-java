@@ -7,7 +7,7 @@
   <packaging>jar</packaging>
 
   <name>hello-java</name>
-  <description>hello world Java app to demonstrate CI integrations</description>
+  <description>helloworld Java app to demonstrate CI integrations</description>
   <url>https://github.com/chuckaude/hello-java</url>
   <inceptionYear>2019</inceptionYear>
   <organization>
