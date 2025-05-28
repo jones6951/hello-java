@@ -27,7 +27,7 @@ jobs:
         DETECT_PROJECT_NAME: MJ-Temporary
       with:
         blackducksca_url: ${{ vars.BLACKDUCK_URL }}
-        blackducksca_token: ${{ secrets.BLACKDUCK_API_TOKEN }}
+        blackducksca_token: ${{ secrets.BLACKDUCK_TOKEN }}
         blackducksca_fixpr_enabled: true
         blackducksca_prComment_enabled: true
         blackducksca_reports_sarif_create: true
