@@ -33,6 +33,7 @@ jobs:
         blackducksca_reports_sarif_create: true
         blackducksca_upload_sarif_report: true
         blackducksca_policy_badges_create: true
+        blackducksca_scan_full: false
         
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # include_diagnostics: true
